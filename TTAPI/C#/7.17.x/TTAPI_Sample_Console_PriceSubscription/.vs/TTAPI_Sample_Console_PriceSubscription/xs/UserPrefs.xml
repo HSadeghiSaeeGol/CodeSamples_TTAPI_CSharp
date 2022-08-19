@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{5E72C5B1-7215-4E03-BD03-415AD2169AE4}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument=".vs/TTAPI_Sample_Console_PriceSubscription/xs/project-cache/TTAPI_Sample_Console_PriceSubscription-Debug|x64.json">
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TTAPI_Sample_Console_PriceSubscription" expanded="True">
+            <Node name="TTAPI_Sample_Console_PriceSubscription" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x64" />
+  <MonoDevelop.Ide.ItemProperties.TTAPI__Sample__Console__PriceSubscription PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
