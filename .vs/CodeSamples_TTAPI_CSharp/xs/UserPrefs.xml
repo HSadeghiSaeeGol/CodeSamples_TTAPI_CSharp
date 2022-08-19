@@ -1,16 +1,17 @@
-﻿<Properties>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties StartupConfiguration="{5E72C5B1-7215-4E03-BD03-415AD2169AE4}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Prices.7.17.x.01__PriceUpdateDragDrop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="../TT_Samples/TT_NET_CLIENT_SIDE/TTNETAPI_Sample_Console_TimeAndSales/Program.cs">
-    <Files>
-      <File FileName="../TT_Samples/TT_NET_CLIENT_SIDE/TTNETAPI_Sample_Console_TimeAndSales/Program.cs" Line="1" Column="1" />
-    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CodeSamples_TTAPI_CSharp" expanded="True" selected="True" />
+          <Node name="CodeSamples_TTAPI_CSharp" expanded="True">
+            <Node name="Orders and Fills" expanded="True">
+              <Node name="7.17.x" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -18,6 +19,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
